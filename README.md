@@ -1,10 +1,10 @@
 # CodeJam Challenges
 
+![logo](imgs/code-jam-google.jpg)
+
 This repository will contain past code jam problems that have already been solved.
 
 Each directory in this repo will be organized to reflect past problem sets.
-
-![alt text][imgs/code-jam-google.jpg]
 
 *Usage*
 
@@ -18,4 +18,4 @@ contests.
 
 
 ## Authors
-*Jae Han* 
+*Jae Han*
